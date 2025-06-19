@@ -1,73 +1,96 @@
-# Welcome to your Lovable project
+# 🌿 Clean Energy Literacy – Eco Chatbot 🤖⚡
 
-## Project info
+Welcome to the **Eco Chatbot** – a smart, interactive conversational assistant designed to promote **clean energy literacy** and raise awareness about renewable energy sources. 🌞💧💨
 
-**URL**: https://lovable.dev/projects/c0312d4f-7baf-4823-8a03-143b26ca76d7
+🚀 [Live Demo](https://eco-chat-awakens-awareness.lovable.app)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 Project Overview
 
-**Use Lovable**
+The **Eco Chatbot** was developed as part of the **1M1B Green Internship Program**, powered by **EY** and **Microsoft**, to demonstrate how AI technologies can be used to drive positive environmental change.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c0312d4f-7baf-4823-8a03-143b26ca76d7) and start prompting.
+This chatbot acts as an educational companion, helping users:
+- Understand **renewable energy types** (solar, wind, hydro)
+- Explore **energy-saving tips**
+- Improve **climate communication** and energy literacy
+- Develop interest in **sustainable living**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧠 Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+| Technology | Purpose |
+|------------|---------|
+| [Rasa](https://rasa.com) | Natural Language Processing (NLP) and conversational AI framework |
+| Python | Core logic and development |
+| HTML/CSS | Styling for web deployment (via Lovable) |
+| Lovable | Platform for no-code chatbot deployment |
+| Git & GitHub | Version control and collaboration |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🌍 Key Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🧠 NLP-based intent recognition for clean energy topics
+- 💬 Dialogue-driven conversation flow
+- 📚 Educational content on **Solar, Wind, Hydro Energy**
+- ⚡ Practical **energy-saving** suggestions
+- 🔒 Privacy-conscious design – no user data stored
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ✨ Project Motivation
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+> “Education is the most powerful weapon which you can use to change the world.” – Nelson Mandela
 
-**Edit a file directly in GitHub**
+In an era of climate urgency, awareness is critical. This project aims to make **renewable energy knowledge more accessible and engaging**, especially for students, youth, and community stakeholders who want to take part in **climate action**.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📈 Use Cases
 
-## What technologies are used for this project?
+- 🏫 Environmental awareness sessions in schools/colleges
+- 🌐 Sustainability web platforms or apps
+- 🧑‍🤝‍🧑 Community training and energy conservation drives
+- 📢 Campaigns on **SDG 7 (Affordable & Clean Energy)** and **SDG 13 (Climate Action)**
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🛠️ How to Contribute
 
-## How can I deploy this project?
+1. Fork the repository  
+2. Clone your forked repo: `git clone https://github.com/your-username/clean-energy-chatbot.git`  
+3. Create a new branch: `git checkout -b feature/your-feature`  
+4. Make your changes  
+5. Commit and push: `git push origin feature/your-feature`  
+6. Open a Pull Request 🚀
 
-Simply open [Lovable](https://lovable.dev/projects/c0312d4f-7baf-4823-8a03-143b26ca76d7) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🙌 Acknowledgements
 
-Yes, you can!
+- **1M1B Foundation** – Green Internship Program  
+- **EY & Microsoft** – AI Skills Passport Certification  
+- **Lovable App** – Deployment platform  
+- **Rasa Team** – Open-source conversational AI
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📬 Contact
+
+If you'd like to know more, collaborate, or share feedback, feel free to connect!
+
+- 📧 **Email:** manne.namrathasai@gmail,com
+  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/manne-namratha-sai-029771259](https://www.linkedin.com/in/manne-namratha-sai-029771259)
+
+---
+
+## 📄 License
+
+This project is open-sourced under the [MIT License](LICENSE).
+
+
+
